@@ -1,3 +1,6 @@
+ATTENTION, This library will not be maintained any more.
+
+
 Applypatch_for_Linux
 ====================
 
